@@ -1,14 +1,10 @@
-# Firstname Lastname
+# Alice Tung
 
 ## README DEMO
 
 This is student repo demo.
 
- > *There was a young lady named Bright,*  
- > *Whose speed was far faster than light;*  
- > *She set out one day,*  
- > *In a relative way,*  
- > *And returned on the previous night.* (A. H. Reginald Buller, 1923)
+>I'm Alice. I'm a first year GGE masters student. I study primary production in the Suisun Marsh. 
 
  - This is a **REPO**sitory
  - This **README** should tell us what is in the **repo**sitory, and what the repo is for.
@@ -16,5 +12,5 @@ This is student repo demo.
 
 ### Make some edits!
 
-- [ ] Edited by student
+- [X] Edited by student
 - [ ] Checked by instructor
