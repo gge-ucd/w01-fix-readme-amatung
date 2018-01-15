@@ -10,7 +10,7 @@ This is student repo demo.
  - This **README** should tell us what is in the **repo**sitory, and what the repo is for.
  - You can add README files for every folder or directory within your repository. Keep them as `.md` files and they will render as webpages on Github (so don't push the `.html` version).
 
-### Make some edits!
+Cool! How are you measuring primary production in a marsh? Remote sensing? Taking water samples? --mjk
 
 - [X] Edited by student
-- [ ] Checked by instructor
+- [X] Checked by instructor
